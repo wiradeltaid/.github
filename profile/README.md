@@ -20,7 +20,7 @@ Other repositories here are work in progress and are not yet ready to use.
 
 We take on engineering work as well: architecture audits, legacy modernisation, integrations, and internal tooling. The same method builds the products above.
 
-**[halo@wiradelta.id](mailto:halo@wiradelta.id)** — work and collaboration  
+**[hello@wiradelta.id](mailto:hello@wiradelta.id)** — work and collaboration  
 **[support@wiradelta.id](mailto:support@wiradelta.id)** — questions about any of the products  
 **[security@wiradelta.id](mailto:security@wiradelta.id)** — vulnerability reports  
 

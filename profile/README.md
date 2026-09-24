@@ -1,7 +1,7 @@
 ## Wira Delta Indonesia · Systems & Software Engineering
 *Right from the blueprint.*
 
-Wira Delta Indonesia is an independent Systems & Software Engineering studio from Indonesia, run by one engineer, with no investors. We build small Windows tools that do two or three things properly instead of forty things badly, and give them away.
+Wira Delta Indonesia is an independent Systems & Software Engineering studio from Indonesia, with no investors. We build small Windows tools that do two or three things properly instead of forty things badly, and give them away.
 
 No accounts. No subscriptions. No telemetry. Where a program does touch the network, its `PRIVACY.md` describes the request in full rather than summarising it, and you can switch it off.
 

@@ -20,8 +20,8 @@ Other repositories here are work in progress and are not yet ready to use.
 
 We take on engineering work as well: architecture audits, legacy modernisation, integrations, and internal tooling. The same method builds the products above.
 
-**[hello@wiradelta.id](mailto:hello@wiradelta.id)** — work and collaboration  
-**[support@wiradelta.id](mailto:support@wiradelta.id)** — questions about any of the products  
-**[security@wiradelta.id](mailto:security@wiradelta.id)** — vulnerability reports  
+**[hello@wiradelta.com](mailto:hello@wiradelta.com)** — work and collaboration  
+**[support@wiradelta.com](mailto:support@wiradelta.com)** — questions about any of the products  
+**[security@wiradelta.com](mailto:security@wiradelta.com)** — vulnerability reports  
 
-[wiradelta.id](https://wiradelta.id)
+[wiradelta.com](https://wiradelta.com)

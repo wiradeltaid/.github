@@ -9,10 +9,10 @@ No accounts. No subscriptions. No telemetry. Where a program does touch the netw
 
 | Project | What it is | Licence | Status |
 |---|---|---|---|
-| **[Wira Desk](https://github.com/wiradeltaid/wira-desk)** | macOS-style same-app window cycling, one-key snapping, and driver-free mouse button mapping for Windows 11 | GPL-3.0-only | Released |
-| **Snapdown** | Turns a visual review into one Markdown file a coding agent can act on | Freeware | On hold — returning with its page on the site |
-| **[Worship Presenter Web](https://github.com/wiradeltaid/worship-presenter-web)** | Turns a worship service rundown into slides — a PowerPoint deck and a dual-screen presenter | MIT | In development |
-| **[WDI Method](https://github.com/wiradeltaid/wdi-method)** | The delivery method these projects are built with | MIT | Released on npm |
+| **[Wira Desk](https://wiradelta.com/wira-desk/)** | macOS-style same-app window cycling, one-key snapping, and driver-free mouse button mapping for Windows 11 | GPL-3.0-only | Released, `0.3.0` |
+| **[WorshipDeck](https://wiradelta.com/worship-deck/)** | Turns a worship service rundown into slides — a PowerPoint deck and a dual-screen presenter | MIT | Released, `0.1.0` |
+| **[Snapdown](https://wiradelta.com/snapdown/)** | Turns a visual review into one Markdown file a coding agent can act on | Freeware | Coming soon |
+| **[WDI Method](https://wiradelta.com/wdi-method/docs/)** | The delivery method these projects are built with | MIT | Released on npm |
 
 Other repositories here are work in progress and are not yet ready to use.
 
